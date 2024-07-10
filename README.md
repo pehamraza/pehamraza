@@ -7,6 +7,7 @@ I'm a seasoned Full Stack Web Developer with over 10+ years of experience in bui
 - 🔭 **Current Role:** Working as Senior Software Engineer
 - 🌐 **Website:** [peham.dev](https://peham.dev)
 - 💼 **LinkedIn:** [Peham Raza](https://www.linkedin.com/in/pehamraza/)
+- 🐦 **X (twitter):** [Peham Raza](https://x.com/pehamraza/)
 - 🛠️ **Skills:**
   - **Front-End:** HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind, VueJS, ReactJS
   - **Back-End:** PHP, CodeIgniter, Laravel, Node
