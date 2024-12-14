@@ -33,8 +33,7 @@ With a strong background in SaaS development, I can help you build scalable and 
 I provide comprehensive DevOps solutions, including server setup, maintenance, and deployment on cloud platforms like AWS. Ensuring your applications run smoothly and efficiently is my priority.
 
 ## 📈 GitHub Stats
-
-![Peham Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=pehamraza&show_icons=true&theme=radical)
+![Peham Raza's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=pehamraza&theme=vue-dark&hide_border=true)
 
 ## 📝 Latest Blog Posts
 
