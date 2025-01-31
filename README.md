@@ -1,6 +1,8 @@
 # Hi, I'm Peham Raza! 👋
 
-I'm a seasoned Full Stack Web Developer with over 10+ years of experience in building robust web solutions. My expertise spans across various domains, including real estate, e-commerce, education, digital marketing, and more.
+I am a Senior Software Engineer with over 10 years of experience in designing, developing, and optimizing scalable, high-performance software solutions. My expertise spans multiple industries, including real estate, e-commerce, automotive, education, digital marketing, and AI-driven applications.
+
+With a strong background in both front-end and back-end development, I have successfully built and scaled products for startups and businesses such as Lazy Applicant, Realstir, Socialize Your Bizness, Beyond Phenom, Sign.com, and Sign Folder. My approach focuses on delivering user-centric solutions tailored to each business’s unique needs.
 
 ## 🌟 About Me
 
